@@ -41,6 +41,7 @@ class Encoder(nn.Module):
 
         return out
 
+
 '''
 ### Description:
 ---

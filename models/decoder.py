@@ -41,6 +41,7 @@ class Decoder(nn.Module):
 
         return out
 
+
 '''
 ### Description:
 ---
