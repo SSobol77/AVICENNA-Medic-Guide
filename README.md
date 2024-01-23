@@ -1,7 +1,7 @@
 
 ![aimed2](https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/fff1b39c-e0e2-4d2e-a477-5d7582dc5c7e)
 
-# AVICENNA
+# AVICENNA Medic Guide
 
 ### Transformer Project
 
@@ -9,7 +9,8 @@
 
 https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide
 
-> I am demonstrating a basic implementation of the transformer in Python using the PyTorch library.
+### Step 1.
+> We demonstrating a first implementation of the basic transformer engine **CyberAI** *(sorry, this closed repository for project development)*in Python using the PyTorch library.
 > This example will be simplified and intended to demonstrate basic concepts, rather than for practical use in complex natural language processing tasks.
 > Creating a simple transformer includes several key components: **attention layers**, **encoder layers**, and **decoder layers**. 
 
