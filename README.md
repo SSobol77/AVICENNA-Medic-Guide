@@ -1,5 +1,13 @@
-# Transformer Project
 
+![aimed2](https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/fff1b39c-e0e2-4d2e-a477-5d7582dc5c7e)
+
+# AVICENNA
+
+### Transformer Project
+
+![421223173_122095481072200040_3579657397230548228_n](https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/e25650b8-5576-44d0-b1c9-dfca238ddbae)
+
+https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide
 
 > I am demonstrating a basic implementation of the transformer in Python using the PyTorch library.
 > This example will be simplified and intended to demonstrate basic concepts, rather than for practical use in complex natural language processing tasks.
