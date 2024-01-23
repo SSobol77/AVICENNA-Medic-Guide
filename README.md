@@ -1,13 +1,19 @@
 
-![aimed2](https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/fff1b39c-e0e2-4d2e-a477-5d7582dc5c7e)
+<h1 align="center"><img src="https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/fff1b39c-e0e2-4d2e-a477-5d7582dc5c7e" /></h1>
+
+<h1 align="center"><img src="https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/e25650b8-5576-44d0-b1c9-dfca238ddbae" width="100" height="100"/> AVICENNA Medic Guide </h1>
 
 # AVICENNA Medic Guide
 
 ### Transformer Project
-
-![421223173_122095481072200040_3579657397230548228_n](https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/e25650b8-5576-44d0-b1c9-dfca238ddbae)
+<h4 align="center"><img src="" width="100" height="100"/></h4>
+![421223173_122095481072200040_3579657397230548228_n]()
 
 https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide
+
+
+
+
 
 ### Step 1.
 > We demonstrating a first implementation of the basic transformer engine **CyberAI** *(sorry, this closed repository for project development)*in Python using the PyTorch library.
