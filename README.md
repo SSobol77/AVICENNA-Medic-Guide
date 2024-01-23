@@ -14,29 +14,30 @@
 
 Artificial Intelligence (AI) has the potential to significantly contribute to the treatment and research of diseases such as Alzheimer's disease, Parkinson's disease, and Multiple Sclerosis in several ways:
 
-1. **Early Diagnosis**: AI can assist in the early detection of these diseases through the analysis of medical imaging, like MRI, PET, and CT scans, as well as through processing large datasets of symptoms and test outcomes. This could lead to earlier initiation of treatments, which may slow disease progression.
+* **Early Diagnosis**: AI can assist in the early detection of these diseases through the analysis of medical imaging, like MRI, PET, and CT scans, as well as through processing large datasets of symptoms and test outcomes. This could lead to earlier initiation of treatments, which may slow disease progression.
 
-2. **Personalized Medicine**: AI can be used to analyze genetic data and lifestyle information to develop personalized treatment plans that might be more effective for an individual's specific characteristics.
+* **Personalized Medicine**: AI can be used to analyze genetic data and lifestyle information to develop personalized treatment plans that might be more effective for an individual's specific characteristics.
 
-3. **Condition Monitoring**: The use of AI-powered applications and wearable devices for monitoring daily activities and health can help track disease progression and treatment efficacy, allowing doctors to adjust therapies in a timely manner.
+* **Condition Monitoring**: The use of AI-powered applications and wearable devices for monitoring daily activities and health can help track disease progression and treatment efficacy, allowing doctors to adjust therapies in a timely manner.
 
-4. **Drug Discovery**: AI can reduce the time and cost associated with discovering and developing new drugs by analyzing potential drug targets and simulating their interaction with various molecules.
+* **Drug Discovery**: AI can reduce the time and cost associated with discovering and developing new drugs by analyzing potential drug targets and simulating their interaction with various molecules.
 
-5. **Decision Support**: AI can analyze vast amounts of medical data to support doctors in making more informed clinical decisions, which can improve treatment outcomes.
+* **Decision Support**: AI can analyze vast amounts of medical data to support doctors in making more informed clinical decisions, which can improve treatment outcomes.
 
-6. **Symptom Management**: AI can aid in the development of customized symptom management plans, for example, in the case of Multiple Sclerosis, where symptoms can vary greatly from patient to patient.
+* **Symptom Management**: AI can aid in the development of customized symptom management plans, for example, in the case of Multiple Sclerosis, where symptoms can vary greatly from patient to patient.
 
-7. **Patient Education and Support**: AI can be utilized in applications and online platforms for educating and supporting patients and their families, providing information about the disease, tips for symptom management, and psychological support.
+* **Patient Education and Support**: AI can be utilized in applications and online platforms for educating and supporting patients and their families, providing information about the disease, tips for symptom management, and psychological support.
 
-8. **Disease Progression Analysis**: AI can monitor changes in patients' conditions over time, providing valuable data for understanding how diseases progress on an individual level.
+* **Disease Progression Analysis**: AI can monitor changes in patients' conditions over time, providing valuable data for understanding how diseases progress on an individual level.
 
 Of course, the application of AI in medicine requires careful regulation, data security, and ethical considerations, but its potential in aiding patients with neurological disorders is quite significant.
 
 
+---
 
-### Transformer Project
+## Transformer Project
 
-
+---
 
 
 
