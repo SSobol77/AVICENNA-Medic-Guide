@@ -1,15 +1,16 @@
 
 <h1 align="center"><img src="https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/fff1b39c-e0e2-4d2e-a477-5d7582dc5c7e" /></h1>
 
-<h1 align="center"><img src="https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/e25650b8-5576-44d0-b1c9-dfca238ddbae" width="100" height="100"/> AVICENNA Medic Guide </h1>
-
+<h1 align="center"><img src="https://github.com/SSobol77/AI_myTransformer_Project/assets/108773983/e25650b8-5576-44d0-b1c9-dfca238ddbae" width="100" height="100"/> AVICENNA Medic Guide ChatGPT</h1>
+<h3 align="center"><img src="https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide" width="100" height="100"/> chat.openai.com </h3>
+https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide
 # AVICENNA Medic Guide
 
 ### Transformer Project
 <h4 align="center"><img src="" width="100" height="100"/></h4>
-![421223173_122095481072200040_3579657397230548228_n]()
 
-https://chat.openai.com/g/g-UrRHZyFQW-avicenna-medic-guide
+
+
 
 
 
