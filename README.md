@@ -56,6 +56,79 @@ Of course, the application of AI in medicine requires careful regulation, data s
 
 ---
 
+## Interpretation of the analysis results
+---
+![Screenshot_20240125_152756](https://github.com/SSobol77/AVICENNA-Medic-Guide/assets/108773983/96f07d05-4f6f-4eda-826d-9ed24442a2c2)
+---
+#### This document appears a complete blood count (CBC) with a differential count and a C-reactive protein (CRP) test result, which are common laboratory tests.
+
+**Complete Blood Count (CBC):**
+- **White Blood Cells (Leukocyty, WBC):** 5.5 x 10^3/μl (within normal range: 4.2 – 9.1 x 10^3/μl)
+- **Red Blood Cells (Erytrocyty, RBC):** 4.72 x 10^6/μl (within normal range: 4.30 – 5.60 x 10^6/μl)
+- **Hemoglobin (HGB):** 14.60 g/dL (within normal range: 13.74 – 17.47 g/dL)
+- **Hematocrit (HCT):** 39.9% (slightly below normal range: 40.1 – 51.0%)
+
+The hematocrit is slightly low, which may indicate a mild anemia or could be a normal variation. The indices of mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH), mean corpuscular hemoglobin concentration (MCHC), and red cell distribution width (RDW) are within normal limits, which are important in characterizing the type of anemia if present.
+
+**Platelet Count (Płytki krwi, PLT):** 318 x 10^3/μl (within normal range: 150 – 350 x 10^3/μl)
+
+**Differential Count:**
+- **Neutrophils (NEU%):** 48% (slightly elevated: normal range 41.90 – 77.80%)
+- **Lymphocytes (LYMPH%):** 42% (elevated: normal range 12.9 – 40.6%)
+
+An increased percentage of lymphocytes may indicate a response to a viral infection or, less commonly, a lymphoproliferative disorder.
+
+**C-reactive Protein (CRP):**
+- **< 0.10 mg/dL (normal is < 0.50 mg/dL)**
+
+The CRP level is within normal limits, suggesting no acute inflammation or infection.
+
+Please note, these results should be interpreted within the clinical context of the patient. If there are symptoms or signs of disease, further investigation or a consultation with a healthcare provider would be necessary. Remember to maintain a balanced diet, exercise regularly, and consult with a healthcare provider for personalized advice.
+
+May this information serve you well on your journey to good health and wellness.
+
+
+---
+
+**Complete Blood Count Analysis Report**
+
+Patient: 17-year-old male
+
+**Results:**
+- White Blood Cells (WBC): 5.5 x 10^3/μl (normal range: 4.2 – 9.1 x 10^3/μl)
+- Red Blood Cells (RBC): 4.72 x 10^6/μl (normal range: 4.30 – 5.60 x 10^6/μl)
+- Hemoglobin (HGB): 14.60 g/dL (normal range: 13.74 – 17.47 g/dL)
+- Hematocrit (HCT): 39.9% (slightly below normal range: 40.1 – 51.0%)
+- Platelets (PLT): 318 x 10^3/μl (normal range: 150 – 350 x 10^3/μl)
+- Neutrophils (NEU%): 48% (slightly elevated)
+- Lymphocytes (LYMPH%): 42% (elevated)
+- C-reactive Protein (CRP): < 0.10 mg/dL (normal is < 0.50 mg/dL)
+
+**Conclusions:**
+The slightly low hematocrit may suggest a mild anemia but could also be a normal variation for a teenager, especially during growth spurts. The elevated lymphocyte percentage could indicate a response to a viral infection, which is common in this age group. CRP levels within normal limits suggest no significant acute inflammation or infection. It is recommended to consult with a healthcare provider for accurate interpretation and further actions if necessary. Regular physical activity and a balanced diet are advised.
+
+---
+
+**Отчет об анализе крови**
+
+Пациент: 17-летний мужчина
+
+**Результаты:**
+- Лейкоциты (WBC): 5,5 x 10^3/мкл (норма: 4,2 – 9,1 x 10^3/мкл)
+- Эритроциты (RBC): 4,72 x 10^6/мкл (норма: 4,30 – 5,60 x 10^6/мкл)
+- Гемоглобин (HGB): 14,60 г/дл (норма: 13,74 – 17,47 г/дл)
+- Гематокрит (HCT): 39,9% (немного ниже нормы: 40,1 – 51,0%)
+- Тромбоциты (PLT): 318 x 10^3/мкл (норма: 150 – 350 x 10^3/мкл)
+- Нейтрофилы (NEU%): 48% (немного повышены)
+- Лимфоциты (LYMPH%): 42% (повышены)
+- С-реактивный белок (CRP): < 0,10 мг/дл (норма < 0,50 мг/дл)
+
+**Выводы:**
+Немного пониженный гематокрит может указывать на легкую анемию, но также может быть нормальным для подростка, особенно в период интенсивного роста. Повышенный уровень лимфоцитов может быть реакцией на вирусную инфекцию, что типично для данной возрастной группы. Нормальный уровень СРБ говорит об отсутствии значительного острого воспаления или инфекции. Рекомендуется консультация с врачом для точной интерпретации и определения не
+
+
+---
+
 ## Transformer Project
 
 ---
