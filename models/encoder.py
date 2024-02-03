@@ -1,4 +1,4 @@
-#
+#   - Encoder - 
 #   @Siergej Sobolewski
 #
 class Encoder(nn.Module):
