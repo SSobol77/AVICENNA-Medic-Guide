@@ -56,10 +56,6 @@ Of course, the application of AI in medicine requires careful regulation, data s
 
 ---
 
-## Interpretation of the analysis results
----
-![Screenshot_20240125_152756](https://github.com/SSobol77/AVICENNA-Medic-Guide/assets/108773983/96f07d05-4f6f-4eda-826d-9ed24442a2c2)
----
 #### This document appears a complete blood count (CBC) with a differential count and a C-reactive protein (CRP) test result, which are common laboratory tests.
 
 **Complete Blood Count (CBC):**
